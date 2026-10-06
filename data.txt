@@ -1,0 +1,111 @@
+Model LinearReg has the metrics {'mae': 2906.824, 'mse': 31047043.715, 'rmse': np.float64(5571.987), 'r2': 0.526}
+Model DecisionTreeReg has the metrics {'mae': 1990.262, 'mse': 16093182.859, 'rmse': np.float64(4011.631), 'r2': 0.755}
+Model RandomForestReg has the metrics {'mae': 1650.214, 'mse': 11281894.514, 'rmse': np.float64(3358.853), 'r2': 0.828}
+Model GradientReg has the metrics {'mae': 1642.434, 'mse': 11007508.655, 'rmse': np.float64(3317.757), 'r2': 0.832}
+Model LinearReg has the metrics {'mae': 2906.824, 'mse': 31047043.715, 'rmse': np.float64(5571.987), 'r2': 0.526}
+Model DecisionTreeReg has the metrics {'mae': 1983.498, 'mse': 15756252.507, 'rmse': np.float64(3969.415), 'r2': 0.76}
+Model RandomForestReg has the metrics {'mae': 1652.981, 'mse': 11243080.487, 'rmse': np.float64(3353.07), 'r2': 0.829}
+Model GradientReg has the metrics {'mae': 1642.818, 'mse': 11011865.396, 'rmse': np.float64(3318.413), 'r2': 0.832}
+Model LinearReg has the metrics {'mae': 2906.824, 'mse': 31047043.715, 'rmse': np.float64(5571.987), 'r2': 0.526}
+Model DecisionTreeReg has the metrics {'mae': 1987.28, 'mse': 15592370.072, 'rmse': np.float64(3948.718), 'r2': 0.762}
+Model RandomForestReg has the metrics {'mae': 1653.962, 'mse': 11350973.366, 'rmse': np.float64(3369.121), 'r2': 0.827}
+Model GradientReg has the metrics {'mae': 1643.098, 'mse': 11023464.173, 'rmse': np.float64(3320.16), 'r2': 0.832}
+
+Model LinearReg has the metrics {'mae': 2650.332, 'mse': 27418191.546, 'rmse': np.float64(5236.238), 'r2': 0.582}
+Model DecisionTreeReg has the metrics {'mae': 1524.936, 'mse': 12657274.999, 'rmse': np.float64(3557.706), 'r2': 0.807}
+Model RandomForestReg has the metrics {'mae': 1204.302, 'mse': 7569013.937, 'rmse': np.float64(2751.184), 'r2': 0.885}
+Model GradientReg has the metrics {'mae': 1543.641, 'mse': 9976074.226, 'rmse': np.float64(3158.492), 'r2': 0.848}
+
+Model LinearReg has the metrics {'mae': 2650.332, 'mse': 27418191.546, 'rmse': np.float64(5236.238), 'r2': 0.582}
+Model DecisionTreeReg has the metrics {'mae': 1517.269, 'mse': 12162035.482, 'rmse': np.float64(3487.411), 'r2': 0.815}
+Model LinearReg has the metrics {'mae': 2650.332, 'mse': 27418191.546, 'rmse': np.float64(5236.238), 'r2': 0.582}
+Model DecisionTreeReg has the metrics {'mae': 1519.395, 'mse': 12224401.725, 'rmse': np.float64(3496.341), 'r2': 0.814}
+Model LinearReg has the metrics {'mae': 2649.607, 'mse': 27406754.061, 'rmse': np.float64(5235.146), 'r2': 0.582}
+Model DecisionTreeReg has the metrics {'mae': 1486.487, 'mse': 11309748.136, 'rmse': np.float64(3362.997), 'r2': 0.828}
+Model RandomForestReg has the metrics {'mae': 1200.163, 'mse': 7732116.8, 'rmse': np.float64(2780.668), 'r2': 0.882}
+Model GradientReg has the metrics {'mae': 1501.853, 'mse': 9719185.513, 'rmse': np.float64(3117.561), 'r2': 0.852}
+
+Model LinearReg has the metrics {'mae': 2649.607, 'mse': 27406754.061, 'rmse': np.float64(5235.146), 'r2': 0.582}
+Model DecisionTreeReg has the metrics {'mae': 1499.418, 'mse': 11768859.228, 'rmse': np.float64(3430.577), 'r2': 0.821}
+Model RandomForestReg has the metrics {'mae': 1193.794, 'mse': 7496203.894, 'rmse': np.float64(2737.92), 'r2': 0.886}
+Model GradientReg has the metrics {'mae': 1500.834, 'mse': 9696157.993, 'rmse': np.float64(3113.865), 'r2': 0.852}
+Model HistReg has the metrics {'mae': 1219.878, 'mse': 7701630.955, 'rmse': np.float64(2775.181), 'r2': 0.883}
+
+Model LinearReg has the metrics {'mae': 1672.717, 'mse': 15281504.416, 'rmse': np.float64(3909.156), 'r2': 0.767}
+Model DecisionTreeReg has the metrics {'mae': 1514.039, 'mse': 13024987.672, 'rmse': np.float64(3609.015), 'r2': 0.801}
+Model RandomForestReg has the metrics {'mae': 1184.852, 'mse': 7887750.914, 'rmse': np.float64(2808.514), 'r2': 0.88}
+Model GradientReg has the metrics {'mae': 1460.055, 'mse': 11512224.133, 'rmse': np.float64(3392.967), 'r2': 0.824}
+Model HistReg has the metrics {'mae': 1180.839, 'mse': 7838949.791, 'rmse': np.float64(2799.812), 'r2': 0.88}
+
+Model LinearReg has the metrics {'mae': 1699.175, 'mse': 13384587.899, 'rmse': np.float64(3658.495), 'r2': 0.783}
+Model DecisionTreeReg has the metrics {'mae': 1539.505, 'mse': 10953364.876, 'rmse': np.float64(3309.587), 'r2': 0.822}
+Model RandomForestReg has the metrics {'mae': 1225.86, 'mse': 7091284.554, 'rmse': np.float64(2662.947), 'r2': 0.885}
+Model GradientReg has the metrics {'mae': 1509.144, 'mse': 10440010.03, 'rmse': np.float64(3231.1), 'r2': 0.831}
+Model HistReg has the metrics {'mae': 1229.946, 'mse': 6934482.945, 'rmse': np.float64(2633.341), 'r2': 0.888}
+
+Model LinearReg has the metrics {'mae': 1732.121, 'mse': 16059594.059, 'rmse': np.float64(4007.442), 'r2': 0.757}
+Model DecisionTreeReg has the metrics {'mae': 1546.186, 'mse': 13392456.179, 'rmse': np.float64(3659.57), 'r2': 0.797}
+Model RandomForestReg has the metrics {'mae': 1213.214, 'mse': 8604948.098, 'rmse': np.float64(2933.419), 'r2': 0.87}
+Model GradientReg has the metrics {'mae': 1493.778, 'mse': 11914669.827, 'rmse': np.float64(3451.763), 'r2': 0.819}
+Model HistReg has the metrics {'mae': 1220.838, 'mse': 8342145.826, 'rmse': np.float64(2888.277), 'r2': 0.874}
+
+Model LinearReg has the metrics {'mae': 1732.121, 'mse': 16059594.059, 'rmse': np.float64(4007.442), 'r2': 0.757}
+Model DecisionTreeReg has the metrics {'mae': 1565.997, 'mse': 15274614.367, 'rmse': np.float64(3908.275), 'r2': 0.769}
+Model RandomForestReg has the metrics {'mae': 1212.15, 'mse': 8583841.049, 'rmse': np.float64(2929.819), 'r2': 0.87}
+Model GradientReg has the metrics {'mae': 1493.778, 'mse': 11914669.827, 'rmse': np.float64(3451.763), 'r2': 0.819}
+Model HistReg has the metrics {'mae': 1220.838, 'mse': 8342145.826, 'rmse': np.float64(2888.277), 'r2': 0.874}
+
+Model LinearReg has the metrics {'mae': 1732.121, 'mse': 16059594.059, 'rmse': np.float64(4007.442), 'r2': 0.757}
+Model DecisionTreeReg has the metrics {'mae': 1564.539, 'mse': 14605603.662, 'rmse': np.float64(3821.728), 'r2': 0.779}
+Model RandomForestReg has the metrics {'mae': 1212.787, 'mse': 8507155.958, 'rmse': np.float64(2916.703), 'r2': 0.871}
+Model GradientReg has the metrics {'mae': 1493.817, 'mse': 11915133.564, 'rmse': np.float64(3451.83), 'r2': 0.819}
+Model HistReg has the metrics {'mae': 1220.838, 'mse': 8342145.826, 'rmse': np.float64(2888.277), 'r2': 0.874}
+
+Model LinearReg has the metrics {'mae': 1961.12, 'mse': 32331273.442, 'rmse': np.float64(5686.06), 'r2': 0.51}
+Model DecisionTreeReg has the metrics {'mae': 1454.506, 'mse': 15293884.455, 'rmse': np.float64(3910.74), 'r2': 0.768}
+Model RandomForestReg has the metrics {'mae': 1085.747, 'mse': 7691997.404, 'rmse': np.float64(2773.445), 'r2': 0.883}
+Model GradientReg has the metrics {'mae': 1400.237, 'mse': 10828747.107, 'rmse': np.float64(3290.706), 'r2': 0.836}
+Model HistReg has the metrics {'mae': 1027.936, 'mse': 7173827.939, 'rmse': np.float64(2678.4), 'r2': 0.891}
+
+Model LinearReg has the metrics {'mae': 1961.12, 'mse': 32331273.442, 'rmse': np.float64(5686.06), 'r2': 0.51}
+Model DecisionTreeReg has the metrics {'mae': 1445.46, 'mse': 15214929.405, 'rmse': np.float64(3900.632), 'r2': 0.769}
+Model RandomForestReg has the metrics {'mae': 1083.399, 'mse': 7779512.219, 'rmse': np.float64(2789.178), 'r2': 0.882}
+Model GradientReg has the metrics {'mae': 1400.252, 'mse': 10829121.536, 'rmse': np.float64(3290.763), 'r2': 0.836}
+Model HistReg has the metrics {'mae': 1027.936, 'mse': 7173827.939, 'rmse': np.float64(2678.4), 'r2': 0.891}
+
+Model LinearReg has the metrics {'mae': 1961.12, 'mse': 32331273.442, 'rmse': np.float64(5686.06), 'r2': 0.51}
+Model DecisionTreeReg has the metrics {'mae': 1437.848, 'mse': 13837839.98, 'rmse': np.float64(3719.925), 'r2': 0.79}
+Model RandomForestReg has the metrics {'mae': 1077.623, 'mse': 7619342.149, 'rmse': np.float64(2760.316), 'r2': 0.885}
+Model GradientReg has the metrics {'mae': 1400.244, 'mse': 10828787.958, 'rmse': np.float64(3290.712), 'r2': 0.836}
+Model HistReg has the metrics {'mae': 1027.936, 'mse': 7173827.939, 'rmse': np.float64(2678.4), 'r2': 0.891}
+
+Model LinearReg has the metrics {'mae': 1961.12, 'mse': 32331273.442, 'rmse': np.float64(5686.06), 'r2': 0.51}
+Model DecisionTreeReg has the metrics {'mae': 1437.0, 'mse': 13909848.679, 'rmse': np.float64(3729.591), 'r2': 0.789}
+Model RandomForestReg has the metrics {'mae': 1079.69, 'mse': 7563789.163, 'rmse': np.float64(2750.234), 'r2': 0.885}
+Model GradientReg has the metrics {'mae': 1400.244, 'mse': 10828787.958, 'rmse': np.float64(3290.712), 'r2': 0.836}
+Model HistReg has the metrics {'mae': 1027.936, 'mse': 7173827.939, 'rmse': np.float64(2678.4), 'r2': 0.891}
+
+Model LinearReg has the metrics {'mae': 1961.12, 'mse': 32331273.442, 'rmse': np.float64(5686.06), 'r2': 0.51}
+Model DecisionTreeReg has the metrics {'mae': 1439.145, 'mse': 14173951.513, 'rmse': np.float64(3764.831), 'r2': 0.785}
+Model RandomForestReg has the metrics {'mae': 1085.665, 'mse': 7678594.251, 'rmse': np.float64(2771.028), 'r2': 0.884}
+Model GradientReg has the metrics {'mae': 1400.237, 'mse': 10828747.107, 'rmse': np.float64(3290.706), 'r2': 0.836}
+Model HistReg has the metrics {'mae': 1027.936, 'mse': 7173827.939, 'rmse': np.float64(2678.4), 'r2': 0.891}
+
+Model LinearReg has the metrics {'mae': 1871.725, 'mse': 20552293.267, 'rmse': np.float64(4533.464), 'r2': 0.689}
+Model DecisionTreeReg has the metrics {'mae': 1308.738, 'mse': 11474780.719, 'rmse': np.float64(3387.445), 'r2': 0.826}
+Model RandomForestReg has the metrics {'mae': 1018.39, 'mse': 7159357.573, 'rmse': np.float64(2675.698), 'r2': 0.891}
+Model GradientReg has the metrics {'mae': 1324.684, 'mse': 10075956.283, 'rmse': np.float64(3174.265), 'r2': 0.847}
+Model HistReg has the metrics {'mae': 984.023, 'mse': 6658567.195, 'rmse': np.float64(2580.42), 'r2': 0.899}
+
+Model LinearReg has the metrics {'mae': 1961.12, 'mse': 32331273.442, 'rmse': np.float64(5686.06), 'r2': 0.51}
+Model DecisionTreeReg has the metrics {'mae': 1438.801, 'mse': 14473941.932, 'rmse': np.float64(3804.463), 'r2': 0.781}
+Model RandomForestReg has the metrics {'mae': 1081.627, 'mse': 7548345.601, 'rmse': np.float64(2747.425), 'r2': 0.886}
+Model GradientReg has the metrics {'mae': 1400.252, 'mse': 10829121.536, 'rmse': np.float64(3290.763), 'r2': 0.836}
+Model HistReg has the metrics {'mae': 1027.936, 'mse': 7173827.939, 'rmse': np.float64(2678.4), 'r2': 0.891}
+
+Model LinearReg has the metrics {'mae': 1876.52, 'mse': 17827636.093, 'rmse': np.float64(4222.279), 'r2': 0.721}
+Model DecisionTreeReg has the metrics {'mae': 1428.601, 'mse': 11810081.951, 'rmse': np.float64(3436.58), 'r2': 0.815}
+Model RandomForestReg has the metrics {'mae': 1086.9, 'mse': 6628823.318, 'rmse': np.float64(2574.65), 'r2': 0.896}
+Model GradientReg has the metrics {'mae': 1368.364, 'mse': 8347614.772, 'rmse': np.float64(2889.224), 'r2': 0.869}
+Model HistReg has the metrics {'mae': 1041.388, 'mse': 5139238.407, 'rmse': np.float64(2266.989), 'r2': 0.92}
+
