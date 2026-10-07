@@ -1,6 +1,7 @@
 
 *.joblib
 models/*
+src/*.txt
 tine.txt
 ceva.md
 !models/hist_regresor.joblib

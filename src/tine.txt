@@ -1,3 +1,4 @@
 color
 make
-model
+modelnu uita de git arhive si sa verifica
+ in github sa fie ok si sa verific de trimeter ambeel task-uri si sa pui liceenta 
