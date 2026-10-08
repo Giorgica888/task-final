@@ -1,4 +1,3 @@
-
 import joblib
 import pandas as pd
 import numpy as np
@@ -27,18 +26,20 @@ X_train, X_test, y_train, y_test = train_test_split(
 y_train_log = np.log1p(y_train)
 
 def train_model(model, path : str):
+    "Takes the model and outputs the model to a path"
     model_inside = Pipeline(
         steps = [
             ("preprocessor", build_processor()),
             ("regressor", model)
         ]
     )
+    "The models is trained on the logits"
     model_inside.fit(X_train, y_train_log)
     
     joblib.dump(model_inside, path)
     print(f"Model saved")
     
-
+# This file can be run if you want to see some stats
 print("y mean:  ", y.mean())
 print("y median:", y.median())
 print("y std:   ", y.std())

@@ -5,6 +5,7 @@ from sklearn.ensemble import HistGradientBoostingRegressor
 from model_evaluation import evaluate_model
 from model_training import train_model
 
+# Models we chose to compare to one another
 
 models = {
     "LinearReg" : (LinearRegression(), "models/linear_regresor.joblib"),
@@ -16,19 +17,17 @@ models = {
 
 
 for i, k in zip(models.values(), models.keys()):
+    "We train each one and save them to their path"
     train_model(i[0], i[1])
     print(f"trained {k}")
 
     with open("data.txt", "a") as f_w:
+        # i[1] is the path
         f_w.write(f"Model {k} has the metrics {evaluate_model(i[1])}\n")
 
 
 with open("data.txt", "a") as f_w:
+    # We write the results to keep track of the early runs
     f_w.write(f"\n")
-# print(models["LinearReg"][0], models["LinearReg"][1])
-# urmeaza sa avem model + poteca pentru fiecare model, licram cu path-uri de modele, 
-# evaluam fiecare model, unele returneaza statisticile modelului 
-# model evaluatin printeaza metricile dar pate fii facuta o comaratie cu un dictionar cu fiecare statistica in parte ca sa luam programtic fiecare model 
-# care ar fii bun
 
 
